@@ -1,18 +1,52 @@
 ---
-layout: null
-section-type: about
+layout: page
 title: About
+permalink: /about/
 ---
-## About
 
-Github's Octocat was designed by Simon Oxley, alongside the white bird Twitter used (before they received a proper logo) as part of a usual routine of cranking out images for iStock. GitHub saw it, and wanted it, presumably under the notion that it can represent how complex code combines to create peculiar things, much like the octopuss... except the CEO of GitHub called it an octocat, and it has been the octocat since <a href="https://www.quora.com/GitHub/What-is-the-story-behind-GitHub%E2%80%99s-octocat-mascot" target="_blank">[via]</a>.
-
-<small>
-Octocat is Github's logo and trademark and here is used to illustrate a fictional character (John Smith) that used the *{ Personal }* Jekyll Theme to build his website.
-</small>
-
-Support the repo by starring or forking it!
-
-<iframe src="https://ghbtns.com/github-btn.html?user=panossakkos&repo=personal-jekyll-theme&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=panossakkos&repo=personal-jekyll-theme&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+<div class="page-header">
+  <h2>What I know</h2>
+</div>
+ <div class="row">
+    <div class="col-md-2 col-md-offset-3">
+      Beginner
+    </div>
+    <div class="col-md-2 col-md-offset-5 text-right">
+      Expert
+    </div>
+  </div>
+    {% for skills in site.skills %}
+      {% for skill in skills %}
+        <div class="row">
+          <div class="col-md-3">
+            <label class="progress-label text-right">{{skill[0]}}</label>
+          </div>
+          <div class="col-md-9">
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-valuenow="{{skill[1]}}" aria-valuemin="0" aria-valuemax="100" style="width: {{skill[1]}}%;">
+                <span class="sr-only">{{skill[1]}}% Complete</span>
+              </div>
+            </div>
+          </div>
+        </div>      
+      {% endfor %}
+    {% endfor %}
+  <div class="page-header">
+    <h2 id="timeline">What I've done</h2>
+  </div>
+  <ul class="timeline">
+    {% for timeline in site.data.timeline %}
+      <li class="{% cycle ' ', 'timeline-inverted' %}">
+      <div class="timeline-badge"><i class="fa {{timeline.icon}}"></i></div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h4 class="timeline-title">{{timeline.company | append: ' '}}<small class="text-muted"><a href="{{ timeline.link }}" target="_blank"><i class="fa fa-external-link"></i></a></small></h4>
+          <p><small class="text-muted">{{timeline.year_start}} - {{timeline.year_end}}</small></p>
+        </div>
+        <div class="timeline-body">
+          <p>{{timeline.text}}</p>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>

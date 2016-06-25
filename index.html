@@ -1,9 +1,16 @@
 ---
-layout: index
-section-type: index
-sitemap:
-  priority: 1.0
+layout: page
 ---
-<!--
-If you want to have a static message in your intro layout, disable the dynamic-typing in the _config.yml and write here your text
--->
+
+<div class="home">
+  <h1>Hello</h1>
+  <p>I made this to keep track of some things I wanted on the internet.</p>
+
+  {% for post in site.posts %}
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      <span>{{ post.date | date_to_string }}</span><br><br>
+      {{ post.content | strip_html | truncatewords:50}}<br><br>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+  {% endfor %}
+</ul>
+</div>
