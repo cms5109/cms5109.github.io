@@ -5,14 +5,14 @@ date:   2016-07-04 02:40
 categories: lean startup notes
 ---
 
-####Page 20:
+#### Page 20:###
 _In contrast, if I was interrupted with questions, process, or - heaven forbid - meetings, I felt bad. What did I really accomplish that day? Code and product features were tangible to me; I could see them, understand them, and show them off. Learning, by contrast, is frustratingly intangible._
 
 _The Lean Startup asks people to start measuring their productivity differently. Because startups often accidentally build something nobody wants, it doesn't matter much if they do it on time and on budget. The goal of a startup it to figure out the right thing to build - the thing customers want and will pay for - as quickly as possible. In other words, the Lean Startup is a new way of looking at the development of innovative new products that emphasizes fast iteration and customer insight, a huge vision, and great ambition, all at the same time._
 
 <br>
 
-####Page 37:
+#### Page 37:
 _I started to worry about measuring progress in this way. What if we found ourselves building something that nobody wanted? In that case, what did it matter if we did it on time and on budget? When I went home at the end of a day's work, the only things I knew for sure were that I had kept people busy and spent money that day._ 
 
 <br>
