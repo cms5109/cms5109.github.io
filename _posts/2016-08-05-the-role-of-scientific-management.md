@@ -13,7 +13,7 @@ The world today is seriously ill. It has passed through one crisis, but no one c
 
 Amid all of the present-day confusions and conflicting ideologies, one thing that stands out as a constructive force which offers real hope for the future to those who are concerned with the development of a better life. That constructive force is scientific management. 
 
-###What is Scientific Management?
+### What is Scientific Management?
 
 Before we can understand how scientific management can help in world recovery, we must understand what it is. Scientific management is both a philosophy and a group of techniques, and its complete definition is difficult. It is something which started as an inspired idea and which has acquired meaning over the years without formal definition. 
 
@@ -25,7 +25,7 @@ The implications of this definition are significant. The only place where scient
 
 Scientific management is a constructive force which seeks to reach its goals, whatever they are, within the natural laws of the situation. It avoids stubborn butting against stone walls. It requires no rigid adherence to set doctrine or specific ideology. Doctrines and ideologies may change, but the scientific-management approach is unchanging, because it operates on the basis of the situation, whatever they are. 
 
-###World Recovery Depends on Production
+### World Recovery Depends on Production
 
 At the present moment, the major requirement for world recovery is production. Particularly in the war-devastated countries, people need desperately the production of material things if they are to enjoy even a passable standard of living. Europe especially is sick, and although progress toward recovery is being made, there is still a long way to go. 
 A few months ago the United Nations Department of Economic Affairs, through the Research and Planning Division of its Economic Commission for Europe, completed an exhaustive study of the European situation and issued a highly informative report under the title of "A Survey of the Economic Situation and PRospects of Europe." Under the head of "Problems of European Recovery," the report states that the restoration of equilibrium in Europe's balance of payments with non-European countries will require a concentrated effort over a period of years. Success will require: (1) the cure of Europe's present monetary instability, (2) the restoration of intra-European trade to prewar levels, and (3) the further expansion of production along the lines necessary to meet the needs of intra-European trade and overseas exports.
@@ -38,7 +38,7 @@ That last statement is worth of further examination. It appears to set as a goal
 
 Europe must be much more productive than it ever was before the war if it is to enjoy the modern standard of living and all that this implies, which this country has demonstrated can be achieved. This is not a European problem alone but is a matter of concern for every one of us here in America. As long as large groups of people in Europe are forced to exist at the subsistence level, so that they have no particular stake in the established economy of their countries, then we can expect unrest, a willingness to go off on unsound economic tangents, and even a mental readiness for war. Until the "have not" people, and the "have not" nations join the ranks of the "have" people and nations, we can expect continuing threats to the peace of the world. 
 
-###American Productivity Can Be Increased
+### American Productivity Can Be Increased
 
 Is it possible for the "have not's" to become "have's"? They can if productivity can be increased. And can productivity be increased? Of course it can. Even here in the United States of America where we talk proudly about the "miracle of production" we accomplished during the war, we are improving our methods and increasing our productivity constantly. Even in productive America, we have yet realized only a fraction of the benefits which scientific management can bring. If, for example, every factory in our country could be managed as well during the next month as the best plant is now managed, we would see an expansion of production which would make the accomplishments of the past seem small indeed by comparison. 
 
@@ -48,7 +48,7 @@ These techniques and others will be just as valuable in other countries as they 
 
 In Europe, the scientific-management movement is really only just now beginning to get under way. True there have been advocates of scientific management and societies devoted to the study and application of scientific management in Europe for many years. However, it required the destructions of war to bring home the fact that production is the only real basis for material prosperity.With this realization came a real enthusiasm for scientific management which promises the greater production which is so badly needed. A steadily increasing stream of publications dealing with scientific-management procedures and techniques is beginning to reach us from overseas, tangible evidence of the new vitality of the movement abroad. CIOS, the International Committee for Scientific Management, strongly support by American management groups including our own ASME, is steadily gaining strength and stature and is becoming a constructive force in the economic and industrial life of all of its member nations, both inside and outside of Europe. 
 
-###Portfolio of World Management Problems
+### Portfolio of World Management Problems
 
 And this is as it should be for more production is not a European problem alone but is a requirement of the rest of the world too. This was clearly demonstrated about three weeks ago when the National MAnagement Council of the United States of America issued to its members a semiconfidential portfolio of top-management International Exchange letters. These letters were written at the request of CIOS by top-management men in different countries, and they commented on the major management problems they face in in their countries at the present time. It was most interesting to discover that in practically every letter from every country there was one problem which was repeatedly stressed - the shortage of labor. Everywhere the demand for production exceeds the ability to produce, with lack of man power a major factor. This is even more significant when it is noted that nearly every letter pointed out that production already greatly exceeds prewar levels. 
 
@@ -56,7 +56,7 @@ There is a world-wide labor shortage and all inquiries into the reasons for it y
 
 With this trend developing in nearly every country in the world, including our own, it appears - if we can avoid the major upheaval of another war - that we are in for the greatest industrial expansion that the world has ever seen. People want more things. The old fears of technological unemployment are disappearing as the result of the assurance given by better social programs throughout the world and the growing acceptance of the fact that to have we must produce. Scientific management faces a real challenge, a challenge which it is ready and only too glad to accept. Scientific management can and will lead the way to the production of more and more goods. 
 
-###Can we Stand Prosperity?
+### Can we Stand Prosperity?
 
 But human nature is a peculiar thing. Can we stand prosperity? Will we be able to settle down and enjoy the fruits of our productivity? Will we be content with a high standard of peaceful living? Or will we use our increased productive capacity for the faster production of the means of destroying ourselves?
 
@@ -64,7 +64,7 @@ I do not suppose anyone really knows. Some feel that wish security and material 
 
 The answer is not yet clear, but I would like to point out that scientific management has within itself the seeds of peace. Scientific management never uses force to accomplish its objectives. It seeks first to understand the laws of the situation. Then it eliminates the obstacles to accomplishment and provides incentives which will cause people to wish to do what is best for the good of the enterprise. 
 
-###Scientific Management in Government
+### Scientific Management in Government
 
 There is little of this approach in government today, anywhere in the world. I submit that the world today is in the state that it is in because of a lack of application of the principles of sound management to national and international affairs. Countries are managed by their governments, to be sure, but it is still a matter of the management of an enterprise - which in this case is life itself - by a group of human beings. In view of the conditions in which we find ourselves, it is evident that there has been a sad lack of management. 
 
@@ -76,7 +76,7 @@ So it may be in government. Scientific management is now beginning to get into t
 
 It is a hopeful development, for from this modest beginning the scientific approach is bound to spread upward through the years and eventually will affect the higher levels. Cold scientific reason will probably never prevail entirely in the management of human affairs, but the scientific approach can recognize the emotional factors which exist within any situation and perhaps can learn to control them within limits. 
 
-###Challenge to Scientific Management
+### Challenge to Scientific Management
 
 This then is a challenge for scientific management. Is it too much to expect that if we in industry demonstrate constantly the value of the scientific-management method, the day eventually will come when the managers of countries will follow our example and will eliminate the obstacle of war and provide the incentives which will result in lasting world peace? Here indeed is a cause which deserves the support of every responsible management man who wishes to see his children and his neighbors grow up in a better world. Scientific management can be a vital factor in world affairs. Let us all resolve to give it our utmost support whenever and wherever we can. 
 
