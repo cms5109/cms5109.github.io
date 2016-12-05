@@ -5,12 +5,12 @@ date:   2016-12-04 21:30
 categories: lean toyota kata agile scrum
 ---
 
-###The Improvement Kata:###
+### The Improvement Kata:###
 <img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/kata-improvement-kata.jpg" alt="Improvement Kata">
 
 <br>
 
-####Page 6: ###
+#### Page 6: ###
 
 _The competitive advantage of an organization lies not so much in the solutions themselves - whether lean techniques, today's profitable product, or any other - but in the ability of the organization to understand conditions and create fitting, smart solutions._
 
@@ -18,13 +18,13 @@ _The key point was not the new production techniques themselves, but rather that
 
 <br>
 
-####Page 8: ###
+#### Page 8: ###
 
 _This is what I mean in this book when I say **continuous improvement and adaptation**: the ability to move toward a new desired state through an unclear and unpredictable territory by being sensitive to and responding to actual conditions on the ground._
 
 <br>
 
-####Page 38: ###
+#### Page 38: ###
 
 _Toyota: survive long term as a company by improving and evolving how we make good products for the customer._
 
@@ -37,7 +37,7 @@ _Here are a few questions to help you think about the position of improvement in
 <br>
 
 
-####Page 53: ###
+#### Page 53: ###
 
 _One lesson implicit in this discussion is that we should not spend too much time benchmarking what others - including Toyota - are doing. **You yourself are the benchmark:**_
 
@@ -49,7 +49,7 @@ _Remember, the ability of your company to be competitive and survive lies not so
 
 <br>
 
-####Page 59: ###
+#### Page 59: ###
 
 <img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/kata-ford-contiguous-flow.jpg" alt="Ford plant">
 <br>
@@ -58,7 +58,7 @@ _Ford was still a long way from the ideal of a 1x1 flow from A to Z, but that mi
 
 <br>
 
-####Page 67: ###
+#### Page 67: ###
 _Trying to manage from a distance through data abstractions often results in managers making incorrect assumptions and inappropriate decisions, and trying to make adjustments and adaptations too long after the fact. ... Not only are the centrally controlled divisions unable to adapt autonomously and quickly, but the decision makers in the central office are basing their decisions on inaccurate, after-the-fact quantitative abstractions._
 
 _The original thinking behind management by objectives (MBO), as outlined by Peter Drucker in his 1954 book "The Practice of Management", is not too distant from how Toyota is managing. Drucker even mentions, in a short case example, how what he calls "some of the most effective managers I know" go beyond only deploying quantitative targets downward. He briefly describes how these managers engage in a two-way dialog with the level below them in order to develop written plans for the activities that will be undertaken to reach the targets._
@@ -67,13 +67,13 @@ _The original thinking behind management by objectives (MBO), as outlined by Pet
 
 <br>
 
-####Page 68: ###
+#### Page 68: ###
 
 _Interestingly, moving production to lower-cost countries in order to reduce cost - another form of cutting - does not change the underlying system or improve the production process. Some have called this "making waste cheaper," because it does not actually change the underlying way of going things._
 
 <br>
 
-####Page 91:###
+#### Page 91:###
 
 _"Well, so many things we do at Toyota we do so there is a pattern." ..._
 
@@ -83,7 +83,7 @@ _"Well, so many things we do at Toyota we do so there is a pattern." ..._
 
 <br>
 
-####Page 126:###
+#### Page 126:###
 
 _Typical initial target conditions for manufacturing processes:_
 
@@ -94,7 +94,7 @@ _Typical initial target conditions for manufacturing processes:_
 
 <br>
 
-####Page 141:###
+#### Page 141:###
 _Focusing on process instead of blame:_
 
 - _People are doing their best._
@@ -103,7 +103,7 @@ _Focusing on process instead of blame:_
 
 <br>
 
-####Page 155:###
+#### Page 155:###
 
 _The Five Questions:_
 
@@ -115,20 +115,20 @@ _The Five Questions:_
 
 <br>
 
-####Page 191: ###
+#### Page 191: ###
 
 _If the learner hasn't learned, the teacher hasn't taught._
 
 <br>
 
-####Page 206: ###
+#### Page 206: ###
 
 _The mentor does not, and should not, have a preconceived solution in mind. The mentor must answer quickly, but he only has to see **what the next step is.** The mentor cannot fully know the way ahead, but he must grasp the situation deeply enough to know that the next step is so he can lead his mentee to and through it. ... In most cases the next step is in fact to get more specific facts or data._
 
 <br>
 
 
-####Page 256: ###
+#### Page 256: ###
 <img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/kata-rollout.jpg" alt="Sample Kata Rollout">
 <br>
 
@@ -139,19 +139,19 @@ _Metrics:_
 
 <br>
 
-####Page 258:###
+#### Page 258:###
 
 _Begin any reflection session with (1) a restatement of the overall theme (for example, "To develop improvement kata behavior in the organization"), and (2) a reiteration of "why we experiment," in order to calibrate everyone's thinking before conducting the reflection._
 
 <br>
 
-####Page 266:###
+#### Page 266:###
 
 _The first place in the value stream to establish and drive toward a target condition is at the "pacemaker process," rather than at upstream "fabrication" processes. The pacemaker process, or loop, in a value stream is the set of downstream steps that are dedicated to a family of products, and where that family of products is finished for the external customer._
 
 <br>
 
-####Page 271:###
+#### Page 271:###
 
 _Questions for a Value Stream Scan:_
 
@@ -168,5 +168,5 @@ _Questions for a Value Stream Scan:_
 
  <br>
 
- ####Page 289:###
+ #### Page 289:###
 <img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/kata-sample-current-state.jpg" alt="Sample current state report">
