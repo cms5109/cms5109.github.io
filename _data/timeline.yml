@@ -1,8 +1,15 @@
+- company: Handshake
+  link: "https://handshake.com"
+  icon: "fa-handshake-o"
+  year_start: 2017
+  year_end: Present
+  text: "Product Manager, Integrations"
+
 - company: Cognosante
   link: "/resume#cognosante"
   icon: "fa-desktop"
   year_start: 2013
-  year_end: Present
+  year_end: 2017
   text: "Various overlapping roles, including:<ul><li>Process Improvement Manager/Coach</li><li>Product Management</li><li>ScrumMaster</li><li>Full-stack Developer</li></ul>"
 
 - company: Mitsubishi

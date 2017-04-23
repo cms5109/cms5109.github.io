@@ -168,5 +168,5 @@ _Questions for a Value Stream Scan:_
 
  <br>
 
- #### Page 289:###
+#### Page 289:###
 <img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/kata-sample-current-state.jpg" alt="Sample current state report">
