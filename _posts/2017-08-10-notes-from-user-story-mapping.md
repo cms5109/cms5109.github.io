@@ -69,6 +69,7 @@ categories: agile lean ux product_management
 
 #### Page 157: ###
 
+A small, cross-functional team led by a product owner orchestrates product discovery work.
 <br> 
 
 #### Page 162: ###
@@ -81,10 +82,19 @@ categories: agile lean ux product_management
 
 #### Page 181: ###
 
+##### Discovery isn't about building software ###
+
+Discovery work isn't about building shippable software. It's about learning. It's about building a deeper understanding of what we could build. It's about asking and answering questions like:
+* What _problems_ are we really solving?
+* What solutions could be _valuable_ to our organization and to customers buying or adopting the product?
+* What does a _usable_ solution look like?
+* What's _feasible_ to build given the time and tools that we have?
+
 <br> 
 
-#### Page 199: ###
+#### Page 198: ###
 
+Prioritize specific business goals, customers, and users, and then their goals, before priortiziing features.
 <br> 
 
 #### Page 202: ###

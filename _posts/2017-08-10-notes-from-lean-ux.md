@@ -21,7 +21,7 @@ It is therefore in your best interest to ask your teams to work on outcome-level
 
 #### Page 138: ###
 
-#####Changing Culture ###
+##### Changing Culture ###
 
 As you implement Lean UX, consider these dimensions of culture:
 * Adopting a position of humility
