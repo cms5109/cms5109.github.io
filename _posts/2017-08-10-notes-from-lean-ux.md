@@ -21,9 +21,10 @@ It is therefore in your best interest to ask your teams to work on outcome-level
 
 #### Page 138: ###
 
-##### Changing Culture ###
+#### Changing Culture ###
 
 As you implement Lean UX, consider these dimensions of culture:
+
 * Adopting a position of humility
 * Embracing new skills
 * Creating open, collaborative workspaces
@@ -32,18 +33,20 @@ As you implement Lean UX, consider these dimensions of culture:
 * Shifting agency culture
 * Being realistic about your environment
 
-##### Shifting Team Organization ###
+#### Shifting Team Organization ###
 
 To implement Lean UX, you'll also need to rethink the way you organize teams:
+
 * Moving from limited roles to collaborative capabilities
 * Creating cross-functional teams
 * Creating small teams
 * Working with distributed teams
 * Working with third-party venors
 
-##### Shifting Process ###
+#### Shifting Process ###
 
 Finally, your product development processes will change as well:
+
 * Shifting from output to outcomes
 * Eliminating Big Design up front
 * Speed first, aesthetics second
