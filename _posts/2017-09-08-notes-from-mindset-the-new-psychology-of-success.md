@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Notes from Mindset: The New Psychology of Success
+title:  Notes from Mindset - The New Psychology of Success
 date:   2017-09-08 09:30
 categories: psychology product_management
 ---
