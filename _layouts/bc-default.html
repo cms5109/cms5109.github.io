@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include bc-head.html %}
+
+  <body>
+
+    {% include bc-header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include bc-footer.html %} 
+    {% if jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
+  </body>
+
+</html>
