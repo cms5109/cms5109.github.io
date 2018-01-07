@@ -5,6 +5,7 @@
 
 .flexcontainer {
   display: flex;
+  margin-top: -45px;
 }
 
 .log-in-container {
