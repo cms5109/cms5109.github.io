@@ -5,12 +5,17 @@
 
 .flexcontainer {
   display: flex;
-  margin-top: -45px;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+  height: 100%;
+  /*margin-top: -45px;*/
 }
 
 .log-in-container {
-  margin-left: 192px;
-  margin-top: 141px;
+  /*margin-left: 192px;*/
+  margin-top: 30px;
   font-family: BrandonText-Regular;
 }
 
@@ -91,8 +96,9 @@
 .welcome-image {
   display: inline;
   padding-left: 68px;
-  margin-top: 135px;
+  /*margin-top: 135px;*/
   min-width: 300px;
+  margin-top: 30px;
 /*  width: 469.1px;
   height: 286.6px;
 object-fit: contain;*/
