@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'BrandonText-Regular';
-  src: url('BrandonText-Regular.otf'); /* IE9 Compat Modes */
+  /*src: url('../asset/fonts/BrandonText-Regular.otf'); /* IE9 Compat Modes */*/
 }
 
 .flexcontainer {
