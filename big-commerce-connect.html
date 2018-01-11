@@ -1,5 +1,5 @@
 ---
-layout: bc-page-inline
+layout: bc-page
 title: About
 permalink: /big-commerce/connect/
 ---
@@ -34,15 +34,30 @@ permalink: /big-commerce/connect/
 			</provider-info>
 
 			<div class="flexcontainer">
-				<div class="log-in-container">
-					<div class="log-in-header">
+				<div class="log-in-container" id="log-in-post-api" style="display: none;">
+					<div class="log-in-header" id="header-post-api">
+						CONNECT
+					</div>
+					<div class="log-in-text" id="text-post-api">
+						<p>Input your Handshake API key below. You can configure your sync settings on the next page.</p>
+					</div>
+					<div class="form-field" id="api-key">
+	        			<label class="form-label" for="value1"><span>API Key:</span></label>
+	        			<input class="form-input-api" maxlength="6" type="text" id="value1" name="value1" placeholder="">
+		    		</div>
+		    		<div class="row">
+						<a href="#" id="continue" class="sign-in-button">Continue</a>
+					</div>
+		    	</div>
+		    	<div class="log-in-container" id="log-in-pre-api">
+					<div class="log-in-header" id="header-pre-api">
 						LOG IN
 					</div>
 					<div class="log-in-text">
 						<p><strong>Have a Handshake account?</strong> Use the button below to install the integration and get started!</p>
 					</div>
 					<div class="row">
-						<a href="#" class="sign-in-button">I have a Handshake account</a>
+						<a href="#" id="have-api-key" class="sign-in-button">I have a Handshake account</a>
 					</div>
 					<div class="row">
 						<a href="http://pages.handshake.com/BigCommerce-Landing-Page_LP-DemoRequest.html" target="_blank" class="sign-up-button">I need to sign up</a>
@@ -58,3 +73,11 @@ permalink: /big-commerce/connect/
 		</div>
 	</main>
 </div>
+<script>
+$(document).ready(function () {
+	$('#have-api-key').click(function() {
+	    $('#log-in-pre-api').hide();
+	    $('#log-in-post-api').show();
+	});
+});
+</script>

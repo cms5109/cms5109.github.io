@@ -141,6 +141,36 @@ permalink: /big-commerce/settings/
 					</fieldset>
 				</form>
 
+				<form class="form">
+					<fieldset class="form-fieldset">
+						<h3>Customer Sync Settings</h3>
+						<!-- <legend class="form-legend providerSettings-panel-subheader"><span>Sync Settings</span></legend>
+						<p class="providerSettings-panel-subheader">
+			                These settings must be configured before we can sync your Handshake data with BigCommerce.
+			            </p> -->
+						<div class="panel">
+	        				<div class="panel-body">
+	        					<h3><span>Create Customers from Handshake</span></h3>
+	        					<fieldset class="form-fieldset">
+	                            	<input type="checkbox" class="form-checkbox" name="checkbox1" id="checkbox1" checked="checked">
+	                            	<label class="form-label" for="checkbox1"><span>Sync new customers in Handshake to BigCommerce</span></label>
+	                        	</fieldset>
+	                        	<br />
+	                        	<h3><span>Customer Group</span></h3>
+	                        	<p><span>Only sync customers from this customer group</span></p>
+	            				<div class="form-field">
+                        			<!--<label class="form-label" for="option1"><span>Select Setting</span></label>-->
+                        			<select class="form-select" id="option1" name="option1">
+										<option value="0" selected="">Wholesale</option>
+										<option value="1">Retail</option>
+										<option value="2">None</option>
+									</select>
+	                    		</div>
+	            			</div>
+						</div>
+					</fieldset>
+				</form>
+
 				<div class="form-actions form-actions--fixed">
 			        <button type="submit" class="button button--primary" id="saveSettings-button"><span>Save</span></button>
 			    </div>

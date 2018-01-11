@@ -104,3 +104,10 @@
 object-fit: contain;*/
 }
 
+.form-input-api {
+  width: 300px;
+  height: 40px;
+  background-color: #ffffff;
+  border: solid 1px #d0d2d3;
+}
+
