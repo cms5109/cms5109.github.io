@@ -20,7 +20,7 @@ permalink: /big-commerce/settings/
 				            </h1>
 				            <ul class="providerInfo-links">
 				                <li class="providerInfo-links-li">
-				                    <a href="#" target="_blank" id="integrationHeaderLink"><span id="integrationHeaderText">Manage Handshake Account</span><icon glyph="ic-open-in-new" class="icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"></path></svg></icon></a>
+				                    <a href="https://app.handshake.com" target="_blank" id="integrationHeaderLink"><span id="integrationHeaderText">Manage Handshake Account</span><icon glyph="ic-open-in-new" class="icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"></path></svg></icon></a>
 				                </li>
 				            </ul>
 				        </div>
@@ -34,8 +34,8 @@ permalink: /big-commerce/settings/
 						    <ul class="tabs">
 						    	<li class="tab overview disable-if-not-connected"><a href="../" class="tab-title">Overview</a></li>
 						    	<li class="tab import disable-if-not-connected"><a href="../sync" class="tab-title">Sync</a></li>
-						        <li class="tab settings disable-if-not-connected is-active"><a href="#" class="tab-title">Settings</a></li> 
-						        <li class="tab settings disable-if-not-connected"><a href="../advanced" class="tab-title">Advanced</a></li>
+						        <li class="tab settings disable-if-not-connected is-active"><a href="#" class="tab-title">Settings</a></li>
+						        <li class="tab getting-started disable-if-not-connected"><a href="../support" class="tab-title">Support</a></li>
 						    </ul>
 						</tabbed-content>
 				    </provider-info-tabs>
@@ -50,7 +50,7 @@ permalink: /big-commerce/settings/
 					<div class="panel-body">
 						<div class="flex">
 							<div>
-								<span>Connected as <a href="https://app.handshake.com/account/users/me">conal.scanlon@handshake.com</a><icon glyph="ic-open-in-new" class="icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"></path></svg></icon></span>
+								<span>Connected as <a href="https://app.handshake.com/account/users/me">128bac7e5a7181b168c00d0199a0d56ac0bc878a </a><icon glyph="ic-open-in-new" class="icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"></path></svg></icon></span>
 							</div>
 							<div>
 								<button class="button providerSettings-disconnect button-far-right" type="button" onclick="disconnectIntegration()"><span>Disconnect Integration</span></button>
@@ -74,12 +74,12 @@ permalink: /big-commerce/settings/
 	                            	<label class="form-label" for="checkbox1"><span>Sync Products <span style="font-size: 13px; font-weight: normal;">&nbsp;(BC → HS)</span></span></label>
 	                        	</fieldset>
 	                        	<fieldset class="form-fieldset">
-	                            	<input type="checkbox" class="form-checkbox" name="checkbox1" id="checkbox1" checked="checked">
-	                            	<label class="form-label" for="checkbox1"><span>Sync Customers<span style="font-size: 13px; font-weight: normal;">&nbsp;(BC ↔ HS)</span></span></label>
+	                            	<input type="checkbox" class="form-checkbox" name="checkbox1" id="checkbox2" checked="checked">
+	                            	<label class="form-label" for="checkbox2"><span>Sync Customers<span style="font-size: 13px; font-weight: normal;">&nbsp;(BC ↔ HS)</span></span></label>
 	                        	</fieldset>
 	                        	<fieldset class="form-fieldset">
-	                            	<input type="checkbox" class="form-checkbox" name="checkbox1" id="checkbox1" checked="checked">
-	                            	<label class="form-label" for="checkbox1"><span>Sync Orders<span style="font-size: 13px; font-weight: normal;">&nbsp;(BC ← HS)</span></span></label>
+	                            	<input type="checkbox" class="form-checkbox" name="checkbox1" id="checkbox3" checked="checked">
+	                            	<label class="form-label" for="checkbox3"><span>Sync Orders<span style="font-size: 13px; font-weight: normal;">&nbsp;(BC ← HS)</span></span></label>
 	                        	</fieldset>
 	                        	<br />
 	                        	<h3><span>Schedule</span></h3>
@@ -108,12 +108,12 @@ permalink: /big-commerce/settings/
 			            </p> -->
 						<div class="panel">
 	        				<div class="panel-body">
-	        					<h3><span>Order History</span></h3>
+	        					<!-- <h3><span>Order History</span></h3>
 	        					<fieldset class="form-fieldset">
 	                            	<input type="checkbox" class="form-checkbox" name="checkbox1" id="checkbox1" checked="checked">
 	                            	<label class="form-label" for="checkbox1"><span>Include Order History in Handshake</span></label>
 	                        	</fieldset>
-	                        	<br />
+	                        	<br /> -->
 	                        	<h3><span>Pre-sync status</span></h3>
 	                        	<p><span>Orders in this status will sync from Handshake to BigCommerce</span></p>
 	            				<div class="form-field">
@@ -141,13 +141,13 @@ permalink: /big-commerce/settings/
 					</fieldset>
 				</form>
 
-				<form class="form">
+				<!-- <form class="form">
 					<fieldset class="form-fieldset">
 						<h3>Customer Sync Settings</h3>
-						<!-- <legend class="form-legend providerSettings-panel-subheader"><span>Sync Settings</span></legend>
+						<legend class="form-legend providerSettings-panel-subheader"><span>Sync Settings</span></legend>
 						<p class="providerSettings-panel-subheader">
 			                These settings must be configured before we can sync your Handshake data with BigCommerce.
-			            </p> -->
+			            </p>
 						<div class="panel">
 	        				<div class="panel-body">
 	        					<h3><span>Create Customers from Handshake</span></h3>
@@ -159,7 +159,7 @@ permalink: /big-commerce/settings/
 	                        	<h3><span>Customer Group</span></h3>
 	                        	<p><span>Only sync customers from this customer group</span></p>
 	            				<div class="form-field">
-                        			<!--<label class="form-label" for="option1"><span>Select Setting</span></label>-->
+                        			<label class="form-label" for="option1"><span>Select Setting</span></label>
                         			<select class="form-select" id="option1" name="option1">
 										<option value="0" selected="">Wholesale</option>
 										<option value="1">Retail</option>
@@ -169,7 +169,7 @@ permalink: /big-commerce/settings/
 	            			</div>
 						</div>
 					</fieldset>
-				</form>
+				</form> -->
 
 				<div class="form-actions form-actions--fixed">
 			        <button type="submit" class="button button--primary" id="saveSettings-button"><span>Save</span></button>

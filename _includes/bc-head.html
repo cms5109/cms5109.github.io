@@ -1,18 +1,14 @@
 <head>
     <title>Handshake Integration</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn8.bigcommerce.com/shared/css/source_sans_pro-dce07e0bbb61c1199d0ee99344f6a1c5fa207144.css" rel="stylesheet" type="text/css">
-    <link href="https://cdn8.bigcommerce.com/shared/bower/bcapp-pattern-lab/dist/css/bcapp-pattern-lab.min-86adb21f0ad606cb3310a0e038fd5aaccbcd1241.css" rel="stylesheet" type="text/css">
-    <link href="https://cdn8.bigcommerce.com/shared/bower/ng-onboarding/dist/css/ng-onboarding.min-84a48e3afb454e963c941a0b1881a637148fbe79.css" rel="stylesheet" type="text/css">
-    <!-- <link href="https://microapps.bigcommerce.com/omnichannel/57a268210f50fb6fb4996ad4d50ea3cee977c27e/css/ng-omnichannel.css" rel="stylesheet" type="text/css"> -->
-    <link href="https://cdn4.bigcommerce.com/shared/bower/ng-marketplace/dist/css/ng-marketplace.min-182c9120ab67f04880e473862a214705d005bbc9.css" rel="stylesheet" type="text/css">
-    <!-- <link href="https://app.buybutton.store/channel-manager.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="https://app.buybutton.store/styles.css" rel="stylesheet" type="text/css"> -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
     <link href="/assets/bc-styles.css" rel="stylesheet" type="text/css">
     <link href="/assets/bc-styles-future.css" rel="stylesheet" type="text/css">
     <link href="/assets/ng-omnichannel.css" rel="stylesheet" type="text/css">
+    <link href="/assets/source_sans_pro-dce07e0bbb61c1199d0ee99344f6a1c5fa207144.css" rel="stylesheet" type="text/css">
+    <link href="/assets/bcapp-pattern-lab.min-86adb21f0ad606cb3310a0e038fd5aaccbcd1241.css" rel="stylesheet" type="text/css">
+    <link href="/assets/ng-onboarding.min-84a48e3afb454e963c941a0b1881a637148fbe79.css" rel="stylesheet" type="text/css">
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" type="text/javascript"></script>
     <script src="{{ "/js/main.js" | prepend: site.baseurl }}" type="text/javascript"></script>
     <style>
@@ -74,7 +70,7 @@
         display: table-cell;
         padding-right: 1.5rem;
     }
-    .providerInfo-logo {
+/*    .providerInfo-logo {
         max-height: 65px;
         max-width: 65px;
         height: auto;
@@ -84,7 +80,7 @@
     }
     .providerInfo-logo.icon {
         padding: 15%;
-    }
+    }*/
     .providerInfo-body {
         vertical-align: middle;
         width: 70%;
@@ -127,12 +123,12 @@
     .providerInfo-links-li a span {
         margin-right: .3rem;
     }
-    .icon {
+/*    .icon {
         height: 1.2rem;
         width: 1.2rem;
         vertical-align: middle;
-    }
-    .icon, .icon svg {
+    }*/
+   /* .icon, .icon svg {
         display: inline-block;
     }
     .icon svg {
@@ -140,7 +136,7 @@
         height: 100%;
         vertical-align: top;
         width: 100%;
-    }
+    }*/
     *, *:before, *:after {
         box-sizing: border-box;
     }
@@ -196,11 +192,16 @@
     .flexcontainer {
       display: flex;
       flex-flow: row wrap;
-      justify-content: center;
+      justify-content: flex-start;
       align-items: center;
-      margin-top: -30px;
       height: 100%;
+      /*padding: 5px;*/
       /*margin-top: -45px;*/
+    }
+
+    .flexcolumn {
+      /*margin: 10px;*/
+      flex-basis: 50%;
     }
 
     .log-in-container {
@@ -293,5 +294,11 @@
       height: 286.6px;
     object-fit: contain;*/
     }
+
+    .btn-connect{
+      width: 300px;
+      height: 34px;
+    }
+
     </style>
 </head>
