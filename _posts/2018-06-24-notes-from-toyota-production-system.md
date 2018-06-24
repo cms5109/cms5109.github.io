@@ -65,7 +65,7 @@ Industrial society must develop the courage, or rather the common sense, to proc
 	</tr>
 	<tr>
 		<td>
-			PRevents defective products by identifying the process making the defectives
+			Prevents defective products by identifying the process making the defectives
 		</td>
 		<td>
 			Defective products are not sent on to the subsequent process. The result is 100% defect-free goods
