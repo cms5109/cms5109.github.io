@@ -24,7 +24,7 @@ Eventually, the officers outlined their complete thought processes and rationale
 
 #### Page 92: ###
 
-REsist the urge to provide solutions is a mechanism for control. When you follow the leader-leader model, you must take time to let others react to the situation as well. You have to create a space for open decision by the entire team, even if that space is only a few minutes, or a few seconds, long.
+Resist the urge to provide solutions is a mechanism for control. When you follow the leader-leader model, you must take time to let others react to the situation as well. You have to create a space for open decision by the entire team, even if that space is only a few minutes, or a few seconds, long.
 
 #### Page 132: ###
 
