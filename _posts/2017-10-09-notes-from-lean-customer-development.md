@@ -65,7 +65,7 @@ _So, it sounds like today you have the problem of [problem], is that accurate? C
 
 _*Customer*: We can't buy until we have your assurance that you'll build an additional feature X._
 
-_*Sales*: I'd like to make sure I fully understand your needs so taht I can bring this feedback back to our product team. Can I ask you a couple of questions about feature X and how it would help you and your company?_
+_*Sales*: I'd like to make sure I fully understand your needs so that I can bring this feedback back to our product team. Can I ask you a couple of questions about feature X and how it would help you and your company?_
 
 _*Customer*: I'm hearing lots of complaints from our internal employees who use the product because you haven't built feature Y._
 
