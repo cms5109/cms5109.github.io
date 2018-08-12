@@ -5,7 +5,7 @@ date:   2017-08-22 19:30
 categories: agile lean product_management
 ---
 
-I took this [workshop](https://svpg.com/public-workshops/), and jotted down some
+I took this [workshop](https://svpg.com/public-workshops/), and jotted down some notes from Marty. All in all, I'd definitely recommend this workshop; it was a great overview, and helped me start seeing the difference between product management in Silicon Valley vs. elsewhere.
 <hr>
 
 SAFe is designed for IT. IT projects we give to the Accentures of the world. 
@@ -18,7 +18,7 @@ Recommended books:
 * _Lean Customer Development_ by Cindy Alvarez
 * _The Art of Scalability_ by Martin Lee Abbott and Michael T. Fisher
 
-There's a difference between "Proctor & Gamble Product Management" and Tech. Product Management. 
+There's a difference between "Proctor & Gamble Product Management" and Technology Product Management. 
 PM is the #1 path to startup co-founder role. 
 
 _*There's a striking difference between how the best companies do product versus the large majority*_
