@@ -18,10 +18,10 @@ permalink: /posts/:year/:month/:day/:title/
 #Skills for progress bars
 skills:
  - Lean: 85
- - Grammar: 84
- - ScrumMastering: 83 
- - "Product Management": 80
- - "Ruby on Rails": 79
+ - "Product Management": 83
+ - ScrumMastering: 80
+ - Grammar: 80
+ - "Ruby/Rails": 79
  - HTML:  72
  - SQL: 69
  - Javascript:  66
