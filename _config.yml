@@ -28,3 +28,7 @@ skills:
  - DevOps: 50
  - Cooking: 45
  - Design: 10
+
+algolia:
+  application_id: Y05ZWL0LC7
+  index_name:     cms5109
