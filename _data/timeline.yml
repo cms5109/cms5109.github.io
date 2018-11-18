@@ -1,8 +1,14 @@
+- company: Flatiron
+  link: "https://flatiron.com"
+  icon: "fa-stethoscope"
+  year_start: 2018
+  year_end: Present
+  text: "Product Manager"
 - company: Handshake
   link: "https://handshake.com"
   icon: "fa-handshake-o"
   year_start: 2017
-  year_end: Present
+  year_end: 2018
   text: "Product Manager"
 
 - company: Cognosante
