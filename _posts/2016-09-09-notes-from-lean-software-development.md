@@ -168,7 +168,7 @@ _PRoject leaders play an important role in an agile project; it's just not the r
 <br> 
 
 #### Page 128: ###
-<img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/integrity.jpg" alt="Integrityx`">
+<img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/integrity.jpg" alt="Integrity">
 
 <br> 
 
