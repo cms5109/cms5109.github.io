@@ -62,7 +62,7 @@ Now, I very often respond to differences of view by asking the other person to s
 #### Page 186: ###
 
 When advocating your view:
-* _Make_ your own reasoning explicit (i.e., say how you arrived at your view and the "data" u[on which it is based)
+* _Make_ your own reasoning explicit (i.e., say how you arrived at your view and the "data" on which it is based)
 * _Encourage_ others to explore your view (e.g., "Do you see any gaps in my reasoning?")
 * _Encourage_ others to provide different views (i.e., "Do you have either different data or different conclusions, or both?")
 * Actively _inquire_ into others' views that differ from your own (i.e., "What are your views?" "How did you arrive at your view?" "Are you taking into account data that are different from what I have considered?")
