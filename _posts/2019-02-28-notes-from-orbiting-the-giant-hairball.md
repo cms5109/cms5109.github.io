@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Notes from Orbiting the Giant Hareball
+title:  Notes from Orbiting the Giant Hairball
 date:   2019-02-28 12:00
 categories: creativity
 ---
