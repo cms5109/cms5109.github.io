@@ -116,25 +116,25 @@ We measured transformational leadership using survey questions adapted from Raff
 
 My leader or manager:
 * (Vision)
-** Has a clear understanding of where we are going.
-** Has a clear sense of where he/she wants our team to be in five years.
-** Has a clear idea of where the organization is going.
+- Has a clear understanding of where we are going.
+-  Has a clear sense of where he/she wants our team to be in five years.
+- Has a clear idea of where the organization is going.
 * (Inspirational communication):
-** Says things that make employees proud to be a part of this organization.
-** SAys positive things about the work unit.
-** Encourages people to see changing environments as situations full of opportunities.
+- Says things that make employees proud to be a part of this organization.
+- SAys positive things about the work unit.
+- Encourages people to see changing environments as situations full of opportunities.
 * (Intellectual stimulation):
-** Challenges me to think about old problems in new ways.
-** Has ideas that have forced me to rethink some things that I have never questions before.
-** Has challenged me to rethink some of my basic assumptions about my work.
+- Challenges me to think about old problems in new ways.
+- Has ideas that have forced me to rethink some things that I have never questions before.
+- Has challenged me to rethink some of my basic assumptions about my work.
 * (Supportive leadership):
-** Considers my personal feelings before acting.
-** Behaves in a manner which is thoughful of my personal needs.
-** Sees that the interests of employees are given due consideration.
+- Considers my personal feelings before acting.
+- Behaves in a manner which is thoughful of my personal needs.
+- Sees that the interests of employees are given due consideration.
 * (Personal recognition):
-** Commends me when I do a better than average job.
-** Acknowledges improvement in my quality of work.
-** Personally copliments me when I do outstanding work.
+- Commends me when I do a better than average job.
+- Acknowledges improvement in my quality of work.
+- Personally copliments me when I do outstanding work.
 
 Our analysis found that these characteristics of transformational leadership are highly correlated with software delivery performance.
 
