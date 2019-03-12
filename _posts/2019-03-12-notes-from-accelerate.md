@@ -103,25 +103,42 @@ Analysis shows that these factors were statisticallty significant in predicting 
 
 <br>
 
-#### Page 103: ###
+#### Page 106: ###
 
-As Andrew Stanton says, "There's a difference between criticism and constructive criticism. With the latter, you're constructing at the same time you're criticizing. You're building as you're breaking down, making new pieces to work with out of the stuff you've just ripped apart. That's an art form in itself. I always lfeel like whatever notes you're giving should inspire the recipient - like, 'How do I get that kid to want to redo his homework?' So, you've got to act like a teacher. Sometimes you talk about the problems in fifty different ways until you find that one sentence that you can see makre's their eyes pop, as if they're thinking, 'Oh, I want to do it.' Instead of saying, 'The writing in this scene isn't good enough,' you wsay, 'Don't you want people to walk out of the theater and be quoting those lines?' It's more of a challenge. 'Isn't this what you want? I want that too!'"
-
-<br>
-#### Page 113: ###
-
-While the process was difficult and time consuming, Pete and his crew never believed that a failed approach meant that _they_ had failed. Instead, they saw that each idea led them a bit closer to finding the better option. And that allowed them to come to work each day engaged and excited, even while in the midst of confusion. This is key: When experimentation is seen as necessary and productive, not as a frustrating waste of time, people will enjoy their work, even when it is confounding to them. 
-
-The principle I'm describing here - iterative trial and error - has long-recognized value in science. When scientists have a question, they construct hypotheses, test them, analyze them, and draw conclusions - and then they do it all over again. The reasoning behind this is simple: experiments are fact-finding missions that, over time, inch scientists toward greater understand. That means _any_ outcome is a good outcome, because it yields new information.
+Another key point is that identity incudes vaues alignment with the goals of the team and the organization. Recall from the previous chapter that one of the key contributors to burnout is a mismatch of personal and organizational values. What this tells us is that a sense of identity can help reduce burnout by aligning personal and organizational values. Therefore, investments in continuous deilvery and Lean management practices, which contribute to a stronger sense of identity, may very well help reduce burnout. Once again, this creates a virtuous circle of value creation in the business where investments in technology and process that make the work better for our people are essential for delivering value for our customers and the business.
 
 <br>
-#### Page 152: ###
+#### Page 118: ###
 
-Another trick is to encourage people to play. "Some of the best ideas come out of joking around, which only comes when you (or the boss) give yourself permission to do it,", Pete says. ... "I've heard people describe creativity as 'unexpected connections between unrelated concepts or ideas.' If that's at all true, you have to bein a certain mindset to make thos econnections. So when I sense we're getting nowhere, I just shut things down. We all go off to something else. Later, once the mood has shifted, I'll attack the problem again."
+We measured transformational leadership using survey questions adapted from Rafferty and Griffin (2004):
+
+My leader or manager:
+* (Vision)
+** Has a clear understanding of where we are going.
+** Has a clear sense of where he/she wants our team to be in five years.
+** Has a clear idea of where the organization is going.
+* (Inspirational communication):
+** Says things that make employees proud to be a part of this organization.
+** SAys positive things about the work unit.
+** Encourages people to see changing environments as situations full of opportunities.
+* (Intellectual stimulation):
+** Challenges me to think about old problems in new ways.
+** Has ideas that have forced me to rethink some things that I have never questions before.
+** Has challenged me to rethink some of my basic assumptions about my work.
+* (Supportive leadership):
+** Considers my personal feelings before acting.
+** Behaves in a manner which is thoughful of my personal needs.
+** Sees that the interests of employees are given due consideration.
+* (Personal recognition):
+** Commends me when I do a better than average job.
+** Acknowledges improvement in my quality of work.
+** Personally copliments me when I do outstanding work.
+
+Our analysis found that these characteristics of transformational leadership are highly correlated with software delivery performance.
 
 <br>
-#### Page 222: ###
+#### Page 208: ###
 
-Similarly, in Japanese Zen, that idea of not being constrained by what we already know is called "beginner's mind." ...
+[Source](https://devops-research.com/assets/transformation_practices.pdf)
 
-PAying attention to the present moment without letting your thoughts and ideas about the past and the future get in the way is essential. Why? Because it makes room for the views of others. It allows us to begin to trust them - and, more important, to _hear_ them. It makes us willing to experiment, and it makes it safe to try something that may fail. It encourages us to work on our awareness, trying to set up our own feedback loop in which paying attention improves our ability to pay attention. It requires us to understand that to advance creatively, we must let go of something. As the composer Philip Glass once said, "The real issue is not how do you find your voice but ... getting rid of the damn thing."
+<img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/high-perf.png" alt="High Performance Behaviors and Practices">
