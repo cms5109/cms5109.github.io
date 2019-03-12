@@ -7,6 +7,7 @@ categories: lean agile devops
 
 <br>
 #### Page 14: ###
+
 In our search for measures of deliver performance that meet these criteria, we settled on four: delivery lead time, deployment frequency, time to restore service, and change fail rate. ... Software delivery performance impacts organizational performance and noncommercial performance.
 
 <table class="table">
@@ -89,6 +90,7 @@ An additional insight from Westrum was that this definition of organizational cu
 
 <br>
 #### Page 84: ###
+
 We examined four capabilities which make up our model of a Lean approach to product development (see also Figure 8.1).
 
 1. The extent to which teams slice up products and features into small batches that can be comleted in less than a week and released frequently, includeing the use of MVPs (minimum viable products)
@@ -139,6 +141,6 @@ Our analysis found that these characteristics of transformational leadership are
 <br>
 #### Page 208: ###
 
-[Source](https://devops-research.com/assets/transformation_practices.pdf)
+[Source]](https://devops-research.com/assets/transformation_practices.pdf)
 
 <img class="img img-thumbnail img-responsive" src="{{site.baseurl}}/assets/high-perf.png" alt="High Performance Behaviors and Practices">
