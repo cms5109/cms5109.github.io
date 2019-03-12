@@ -90,6 +90,7 @@ An additional insight from Westrum was that this definition of organizational cu
 <br>
 #### Page 84: ###
  We examined four capabilities which make up our model of a Lean approach to product development (see also Figure 8.1).
+ 
  #The extent to which teams slice up products and features into small batches that can be comleted in less than a week and released frequently, includeing the use of MVPs (minimum viable products)
  #Whether teams have a good understanding of the flow of work from the business all the way through to custoemrs, and whether they have visibility into this flow, including the status of products and features.
  #Whether organizations actively and regularly seek customer feedback and incorporate this feedback into the design of their products.
