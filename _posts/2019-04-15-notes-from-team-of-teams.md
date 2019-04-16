@@ -30,7 +30,7 @@ Peter Drucker had a catchy statement: "Efficiency is doing things right; _effect
 <br>
 #### Page 138: ###
 
-F3EA got tighter, faster, and more focused. By August 2004 we were running eighteen raids a month - a higher pace than we had thought possible. ... Speeding up the individual elements of the system did nothing to eliminate the blinks between them that most stymied our efforts. There were geographical blinks and technological ones ... More often, though, the blinks were social. Cultural differences between the Task Force's different tribes fgot in the way of communicating. 
+F3EA got tighter, faster, and more focused. By August 2004 we were running eighteen raids a month - a higher pace than we had thought possible. ... Speeding up the individual elements of the system did nothing to eliminate the blinks between them that most stymied our efforts. There were geographical blinks and technological ones ... More often, though, the blinks were social. Cultural differences between the Task Force's different tribes got in the way of communicating. 
 
 <br>
 #### Page 149: ###
@@ -45,9 +45,9 @@ What Mueller instituted was known as "systems engineering" or "systems managemen
 <br>
 #### Page 197: ###
 
-It is necessary, we found, to forcibly dismantle the old system and replace it with an entireley new managerial architecture. Our new architecture was shared consciousness, and it consisted of two elements. The first was extreme, participatory transparency - the "systems management" of NASA that we mimicked with our O&I forums and our open physical space. This allowed all participants to have a holistic awareness equivalent to the contextual awareness of _purpose_ we already knew at a team level. The second was the creation of strong internal connectivity across teams - something we achieved with our embedding and liaison programs.
+It is necessary, we found, to forcibly dismantle the old system and replace it with an entirely new managerial architecture. Our new architecture was shared consciousness, and it consisted of two elements. The first was extreme, participatory transparency - the "systems management" of NASA that we mimicked with our O&I forums and our open physical space. This allowed all participants to have a holistic awareness equivalent to the contextual awareness of _purpose_ we already knew at a team level. The second was the creation of strong internal connectivity across teams - something we achieved with our embedding and liaison programs.
 
 <br>
 #### Page 244: ###
 
-This critical caveat to Tocqueville's predicitions of American democratic success cuts to the heart of what makes a democracy tick: a political structure in which the decision-mkaing authority is - in some ways - decentralized to the voters, rather than concentrated in a monarchic or oligarchic core, _requires_ a high level of political awareness among the public in order to function.
+This critical caveat to Tocqueville's predictions of American democratic success cuts to the heart of what makes a democracy tick: a political structure in which the decision-making authority is - in some ways - decentralized to the voters, rather than concentrated in a monarchic or oligarchic core, _requires_ a high level of political awareness among the public in order to function.
