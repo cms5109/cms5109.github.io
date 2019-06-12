@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  Notes from Measure What Matters
-date:   2019-06-01 12:00
+date:   2019-06-12 12:00
 categories: product management okrs
 ---
- #### Page vii: ###
+
+#### Page vii: ###
 
  * Superpower #1: Focus and commit to priorities
  * Superpower #2: Align and Connect for Teamwork
