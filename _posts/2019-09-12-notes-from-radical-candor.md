@@ -36,9 +36,9 @@ To help, I adopted a go-to question that Fred Cofman, author of _Conscious Busin
 
 #### Page 182: ###
 
-Conversation 1: life story
-Conversation 2: dreams
-Conversation 3: 18-month plan
+* Conversation 1: life story
+* Conversation 2: dreams
+* Conversation 3: 18-month plan
 
 Thoreau said it best in _Walden_:
 > If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours. He will put some things behind, will pass an invisible boundary ... If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them."
