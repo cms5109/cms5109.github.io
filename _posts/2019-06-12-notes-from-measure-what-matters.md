@@ -20,7 +20,7 @@ He sought to "create an environment that values and emphasizes output" and to av
 <br>
 
 #### Page 43: ###
-Crush was a thoroughly cascaded set of OKRs, heavily driven from the top, but with input from below. At And Grove's level, or even my level, you couldn't know all the mechanics of _how_ the battle should be won. A lot of this stuff ahs to flow uphill. You can tell people to clean up a mess, but should you be telling them which broom to use?
+Crush was a thoroughly cascaded set of OKRs, heavily driven from the top, but with input from below. At Andy Grove's level, or even my level, you couldn't know all the mechanics of _how_ the battle should be won. A lot of this stuff ahs to flow uphill. You can tell people to clean up a mess, but should you be telling them which broom to use?
 
 <br>
 
@@ -31,7 +31,7 @@ Connected companies are quicker companies. To grab a competitive advantage, both
 
 #### Page 97: ###
 
-IT's not easy to predict the market for the conceptually new; we'd wildly beat our metric or wildly miss. So we switched it up. We began pinning our key results to deadlines instead of revenue or projected users.
+It's not easy to predict the market for the conceptually new; we'd wildly beat our metric or wildly miss. So we switched it up. We began pinning our key results to deadlines instead of revenue or projected users.
 
 <br>
 
@@ -42,8 +42,8 @@ Based on BetterWorks' experience with hundreds of enterprises, five critical are
 * _Goal setting and reflection_, where the employee's OKR plan is set for the coming cycle. The discussion focuses on how best to aligh individual objectives and key results with organizational priorities.
 * _Ongoing progress updates,_ the brief and data-driven checkins on the employee's real-time progress, with problem solving as needed. 
 * _Two-way coaching,_ to help contributors reach their potential and managers do a better job
-_Career growth, to develop skills, identify growth opportunities, and expand employees' vision of their future at the company
-_Lightweight performance reviews, a feedback mechanism to gather inputs and summarize wha the employee has accomplished since the last meeting, in the context of the organization's needs. 
+* _Career growth, to develop skills, identify growth opportunities, and expand employees' vision of their future at the company
+* _Lightweight performance reviews, a feedback mechanism to gather inputs and summarize wha the employee has accomplished since the last meeting, in the context of the organization's needs. 
 
 <br>
 
