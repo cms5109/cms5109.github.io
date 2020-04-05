@@ -1,0 +1,46 @@
+lastupdate: March 8, 2020
+list:
+  - year: "2020"
+    books:
+      - title: "Start at the End"
+        author: Matt Wallaert
+        link: https://www.amazon.com/Start-End-Products-Create-Change/dp/0525534423
+        finished: March 7th, 2020
+        stars: 3
+
+      - title: "Extreme Ownership"
+        author: Jocko Willink and Leif Babin
+        link: https://www.amazon.com/Extreme-Ownership-Jocko-Willink/dp/1250270960/
+        finished: March 1st, 2020
+        stars: 5
+
+      - title: "Servant Leadership"
+        author: Robert K. Greenleaf
+        link: https://www.amazon.com/Servant-Leadership-Legitimate-Greatness-Anniversary/dp/0809105543
+        finished: February 21st, 2020
+        stars: 4
+
+      - title: "Machine Platform Crowd"
+        author: Andrew McAfee and Erik Brynjolfsson
+        link: https://www.amazon.com/Machine-Platform-Crowd-Harnessing-Digital-dp-039335606X/dp/039335606X
+        finished: February 10th, 2020
+        stars: 2
+
+
+      - title: "Range: Why Generalists Triumph in a Specialized World"
+        author: David Epstein
+        link: https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484
+        finished: January 25th, 2020
+        stars: 4
+
+      - title: "Weekend Language"
+        author: Andy Craig and Dave Yewman
+        link: https://www.amazon.com/Weekend-Language-Presenting-Stories-PowerPoint/dp/0988595613
+        finished: January 18th, 2020
+        stars: 5
+
+      - title: "Don't Make Me Think"
+        author: Steve Krug
+        link: https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/
+        finished: January 11th, 2020
+        stars: 2
