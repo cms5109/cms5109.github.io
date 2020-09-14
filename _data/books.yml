@@ -1,7 +1,37 @@
-lastupdate: March 8, 2020
+lastupdate: September 13, 2020
 list:
   - year: "2020"
     books:
+      - title: "Change by Design"
+        author: Tim Brown
+        link: https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089
+        finished: Sep 9th, 2020
+        stars: 3
+
+      - title: "Alexander Hamilton"
+        author: Ron Chernow
+        link: https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758/
+        finished: Sep 2nd, 2020
+        stars: 4
+
+      - title: "The Journey to the East"
+        author: Herman Hesse
+        link: https://www.amazon.com/Journey-East-Hermann-Hesse/dp/1891396889/
+        finished: July 19th, 2020
+        stars: 2
+
+      - title: "About Face: The Odyssey of an American Warrior"
+        author: David Hackworth
+        link: https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347/
+        finished: July 14th, 2020
+        stars: 5
+
+      - title: "A Lapsed Anarchist's Approach to Building a Great Business"
+        author: Ari Weinzweig
+        link: https://www.amazon.com/Anarchists-Approach-Building-Business-Zingermans/dp/0964895684
+        finished: June 14th, 2020
+        stars: 4
+
       - title: "Start at the End"
         author: Matt Wallaert
         link: https://www.amazon.com/Start-End-Products-Create-Change/dp/0525534423
