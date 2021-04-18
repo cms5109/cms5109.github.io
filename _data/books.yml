@@ -1,5 +1,25 @@
-lastupdate: September 13, 2020
+lastupdate: April 18, 2021
 list:
+  - year: "2021"
+    books: 
+      - title: "The Unicorn Project"
+        author: Gene Kim
+        link: https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41
+        finished: April 17th, 2021
+        stars: 4
+          
+      - title: "Grit: The Power of Passion and Perseverance"
+        author: Angela Duckworth
+        link: https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108
+        finished: March 17th, 2021
+        stars: 4
+
+      - title: "Stamped from the Beginning: The Definitive History of Racist Ideas in America"
+        author: Ibram X. Kendi
+        link: https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568585985
+        finished: February 17th, 2021
+        stars: 3
+
   - year: "2020"
     books:
       - title: "Change by Design"
