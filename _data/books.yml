@@ -2,6 +2,12 @@ lastupdate: April 18, 2021
 list:
   - year: "2021"
     books: 
+      - title: "The Drinking Life: A Memoir"
+        author: Pete Hammill
+        link: https://www.amazon.com/Drinking-Life-Memoir-Pete-Hamill/dp/0316341029
+        finished: May 2nd, 2021
+        stars: 4
+
       - title: "The Unicorn Project"
         author: Gene Kim
         link: https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41

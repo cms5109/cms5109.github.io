@@ -17,17 +17,16 @@ permalink: /posts/:year/:month/:day/:title/
 
 #Skills for progress bars
 skills:
- - Lean: 85
- - "Product Management": 83
- - ScrumMastering: 80
+ - "Product Management": 87
+ - "Lean/Agile": 85
  - Grammar: 80
- - "Ruby/Rails": 79
- - HTML:  72
+ - "Ruby/Rails": 74
+ - HTML:  70
  - SQL: 69
  - Javascript:  66
  - DevOps: 50
- - Cooking: 45
- - Design: 10
+ - Cooking: 55
+ - Design: 30
 
 algolia:
   application_id: Y05ZWL0LC7
