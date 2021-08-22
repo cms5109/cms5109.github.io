@@ -1,7 +1,44 @@
-lastupdate: April 18, 2021
+lastupdate: August 22, 2021
 list:
   - year: "2021"
     books: 
+      - title: "Cider with Rosie"
+        author: Laurie Lee
+        link: https://www.amazon.com/Cider-Rosie-Laurie-Lee/dp/1567923550
+        finished: August 20th, 2021
+        stars: 3
+        quick_take: "It's just about his early life. I didn't realize. Pretty well written, though."
+      
+      - title: "Team Genius: The New Science of High-Performing Organizations"
+        author: Rich Karlgaard and Michael Malone
+        link: https://www.amazon.com/Team-Genius-Science-High-Performing-Organizations-ebook/dp/B00OG8AXKO
+        finished: July 28th, 2021
+        stars: 3
+        quick_take: "Some chapters were worthless, but there are some really deep sections on things \n
+        like team formation and how to get the most out of diverse teams that more than make up for it."
+      
+      - title: "Freedom"
+        author: Sebastian Junger
+        link: https://www.amazon.com/dp/1982153415
+        finished: July 3rd, 2021
+        stars: 4
+        quick_take: "A bunch of random anecdotes, but overall a pretty entertaining book with interesting \n
+        historical anecdotes that you can finish in a day."
+      
+      - title: "Team Topologies: Organizing Business and Technology for Fast Flow"
+        author: Matthew Skelton, Manuel Pais, Ruth Malan
+        link: https://www.amazon.com/dp/1942788819
+        finished: June 23rd, 2021
+        stars: 4
+      
+      - title: "Money: The True Story of a Made-Up Thing"
+        author: Jacob Goldstein
+        link: https://www.amazon.com/Money-True-Story-Made-Up-Thing/dp/031641719X
+        finished: June 19th, 2021
+        stars: 4
+        quick_take: "Very interesting historical context, and good explanations of monetary theories, much \n
+        like you'd expect from the host of Planet Money."
+
       - title: "The Drinking Life: A Memoir"
         author: Pete Hammill
         link: https://www.amazon.com/Drinking-Life-Memoir-Pete-Hamill/dp/0316341029

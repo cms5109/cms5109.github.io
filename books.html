@@ -16,9 +16,10 @@ permalink: /books/
       <ul class="reading-list {{ entry.year }}">
         {% for book in entry.books %}
         <li>
-          <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
-            book.title
-          }}</a>
+          <a href="{{ book.link }}" target="_blank" rel="nofollow noopener">{{
+            book.title 
+          }} <i class="fa fa-external-link"></i>
+          </a>
           <span class="author">by {{ book.author }}</span>
           <br />
           <span>Finished: {{book.finished}}</span>
@@ -30,10 +31,13 @@ permalink: /books/
           {% for star in (1..remaining) %}
             <i class="fa fa-star-o"></i>
           {% endfor %}
-
+          <br />
+          {% if book.quick_take %}
+          <p class="quick-take">{{ book.quick_take }}</p>
+          {% endif %}
           {% assign book_notes = site.posts | where: "book_title", book.title | first %}
           {% if book_notes.url %}
-            <a href="{{ site.baseurl }}{{ book_notes.url }}" alt="_blank" rel="nofollow noopener">
+            <a href="{{ site.baseurl }}{{ book_notes.url }}" target="_blank" rel="nofollow noopener">
               View Notes
             </a>
           {% endif %}
