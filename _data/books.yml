@@ -1,7 +1,79 @@
-lastupdate: August 22, 2021
+lastupdate: January 10, 2022
 list:
+  - year: "2022"
+    books: 
+      - title: "The Price We Pay: What Broke American Healthcare -- and How to Fix It"
+        author: Marty Makary
+        link: https://www.amazon.com/Price-We-Pay-American-Care/dp/1635575915
+        finished: February 2, 2022
+        stars: 5
+        quick_take: "Engaging and easy read, with a lot of well-sourced substance to back up the narrative." 
+      
+      - title: "An American Sickness: How Healthcare Became Big Business And How You Can Take It Back"
+        author: Elizabeth Rosenthal
+        link: https://www.amazon.com/American-Sickness-Healthcare-Became-Business/dp/0143110853/
+        finished: January 20th, 2022
+        stars: 2
+        quick_take: "Disappointing. Lots of interesting insights, but presented as a tale of stiched-together anecdotes" 
+      
+      - title: "Humble Inquiry: The Gentle Art of Asking Instead of Telling"
+        author: Edgar H. Schein
+        link: https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811
+        finished: January 10th, 2022
+        stars: 1
+        quick_take: "I'm sure this book contains some useful concepts, but I just couldn't read more than 5 pages without falling asleep" 
+
   - year: "2021"
     books: 
+      - title: "Say Nothing: A True Story of Murder and Memory in Northern Ireland"
+        author: Patrick Radden Keefe
+        link: https://www.amazon.com/Say-Nothing-Murder-Northern-Ireland/dp/0307279286
+        finished: December 30th, 2021
+        stars: 5
+        quick_take: 
+
+      - title: "When Coffee and Kale Compete"
+        author: Alan Klement
+        link: https://www.amazon.com/When-Coffee-Kale-Compete-products/dp/1534873066/
+        finished: December 1st, 2021
+        stars: 4
+        quick_take: 
+      
+      - title: "The War Comes to Garmser: Thirty Years of Conflict on the Afghan Frontier"
+        author: Carter Malkasian
+        link: https://www.amazon.com/gp/product/019997375X/
+        finished: November 1st, 2021
+        stars: 5
+        quick_take: 
+
+      - title: "Leaders Eat Last: Why Some Teams Pull Together and Others Don't"
+        author: Simon Sinek
+        link: https://www.amazon.com/gp/product/1591848016
+        finished: November 1st, 2021
+        stars: 3
+        quick_take: Like a TED talk that got expanded into a novel. Some redeemable parts, though. 
+
+      - title: "The Dichotomy of Leadership"
+        author: Jocko Willink
+        link: https://www.amazon.com/gp/product/1250247101/
+        finished: October 10th, 2021
+        stars: 5
+        quick_take: 
+
+      - title: "How to Stop Losing Your Sh*t with Your Kids: A Practical Guide to Becoming a Calmer, Happier Parent"
+        author: Carla Naumburg
+        link: https://www.amazon.com/gp/product/1523505427/
+        finished: October 1st, 2021
+        stars: 3
+        quick_take: 
+
+      - title: "Drunk"
+        author: Edward Slingerland
+        link: https://www.amazon.com/Drunk-Sipped-Danced-Stumbled-Civilization/dp/0316453382
+        finished: September 24th, 2021
+        stars: 5
+        quick_take: "4 Cs - cultural, creative, communal, conscious"
+
       - title: "Cider with Rosie"
         author: Laurie Lee
         link: https://www.amazon.com/Cider-Rosie-Laurie-Lee/dp/1567923550
