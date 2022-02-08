@@ -19,7 +19,7 @@ _We want to not only show respect to our people, the same way we want to show re
 
 <br>
 
-#### Page 57:###
+#### Page 57: ###
 * Have you identified the real problem?
 * Can you show the gap between the target and the current condition?
 * Did you go to the gemba, observe, and talk to the people who do the work to fully grasp the current situation?
