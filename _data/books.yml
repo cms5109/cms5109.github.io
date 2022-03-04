@@ -2,6 +2,20 @@ lastupdate: January 10, 2022
 list:
   - year: "2022"
     books: 
+      - title: "The Innovator's Prescription"
+        author: Clayton Christensen
+        link: https://www.amazon.com/Innovators-Prescription-Disruptive-Solution-Business/dp/0071592083
+        finished: March 4, 2022
+        stars: 3
+        quick_take: "At this point, it seems a bit dated, but it's interesting to see which predicitions came true (such as the rise of specialty/urgent care clinics). Some overall principles may hold true, but it's probably better to focus on 'jobs to be done' more holistically." 
+
+      - title: "Deep Medicine"
+        author: Eric Topol
+        link: https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638
+        finished: February 10, 2022
+        stars: 4
+        quick_take: "Very detailed examples of AI from 2019. Possibly too optimistic; certainly a little hard to think about." 
+      
       - title: "The Price We Pay: What Broke American Healthcare -- and How to Fix It"
         author: Marty Makary
         link: https://www.amazon.com/Price-We-Pay-American-Care/dp/1635575915
