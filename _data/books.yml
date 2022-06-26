@@ -1,7 +1,49 @@
-lastupdate: January 10, 2022
+lastupdate: June 26, 2022
 list:
   - year: "2022"
     books: 
+      - title: "Masters of Command: Alexander, Hannibal, Caesar, and the Genius of Leadership"
+        author: Barry Strauss
+        link: https://www.amazon.com/Masters-Command-Alexander-Hannibal-Leadership/dp/1439164495
+        finished: June 23, 2022
+        stars: 5
+        quick_take: "Breaks down each of the wars into 5 steps: Attack, Resistance, Clash, Closing the Net, Knowing When to Stop. Hearing about the great generals of antiquity is interesting, and the author offers a nuanced perspective, balancing praise for the general's leadership with plain luck. The biggest takeaway is the importance of 'audacity'."
+      
+      - title: "Priced Out: The Economic and Ethical Costs of American Healthcare"
+        author: Uwe E. Reinhardt
+        link: https://www.amazon.com/Priced-Out-Economic-Ethical-American/dp/0691208530/
+        finished: June 16, 2022
+        stars: 4
+        quick_take: "Pretty technical deep dive into the US healthcare landscape. The focus on the individual policy proposals during the Trump administration was interesting, but felt less relevant now. The most important question: should better-off individuals help subsidize care for less fortunate ones?"
+      
+      - title: "The Fixer: My Adventures Saving Startups from Death by Politics"
+        author: Bradley Tusk
+        link: https://www.amazon.com/dp/0525536493
+        finished: June 1, 2022
+        stars: 3
+        quick_take: "Interesting stories, especially the insights into politics in NYC and Illinois. Otherwise, I didn't learn as much about working in a regulated environment as I would've hoped."
+      
+      - title: "One Hundred Years of Solitude"
+        author: Gabriel Garcia Marquez
+        link: https://www.amazon.com/dp/0060883286
+        finished: May 12, 2022
+        stars: 5
+        quick_take: "Probably the best novel I've read, maybe ever, but certainly in the last few years."
+      
+      - title: "Zero to One: Notes on Startups, or How to Build the Future"
+        author: Peter Thiel
+        link: https://www.amazon.com/gp/product/0804139296/
+        finished: April 30, 2022
+        stars: 2
+        quick_take: "Some good tidbits. Some rather crazy viewpoints. I still don't know how well Thiel understands statistics/Divine Providence."
+      
+      - title: "Good Strategy/Bad Strategy: The difference and why it matters"
+        author: Richard Rumelt
+        link: https://www.amazon.com/gp/product/1781256179
+        finished: March 30, 2022
+        stars: 5
+        quick_take: "Enlightening look at what makes a good strategy, and how to construct one."
+      
       - title: "The Innovator's Prescription"
         author: Clayton Christensen
         link: https://www.amazon.com/Innovators-Prescription-Disruptive-Solution-Business/dp/0071592083
