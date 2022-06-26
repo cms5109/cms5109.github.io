@@ -2,7 +2,7 @@
 layout: post
 title: Notes from Masters of Command
 book_title: "Masters of Command: Alexander, Hannibal, Caesar, and the Genius of Leadership"
-date: 2022-06-26 12:00
+date: 2022-06-26 9:00
 categories: leadership
 ---
 
