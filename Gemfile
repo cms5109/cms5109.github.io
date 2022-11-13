@@ -14,3 +14,5 @@ gem "kramdown-parser-gfm"
 group :jekyll_plugins do
 	gem 'jekyll-algolia'
 end
+
+gem 'jekyll-seo-tag'

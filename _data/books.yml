@@ -1,7 +1,28 @@
-lastupdate: June 26, 2022
+lastupdate: November 12, 2022
 list:
   - year: "2022"
     books: 
+      - title: "The Power Broker: Robert Moses and the Fall of New York"
+        author: Robert A Caro
+        link: https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245
+        finished: November 11, 2022
+        stars: 5
+        quick_take: "An incredibly detailed look into Robert Moses' career in public service, with some interesting notes about getting things done. I come away with a very mixed perception of Moses - disagree with his tactics/strategy, but he got things done."
+     
+      - title: "Zero To IPO"
+        author: Frederic Kerrest
+        link: https://www.amazon.com/Zero-IPO-Actionable-Successful-Entrepreneurs/dp/1264277660
+        finished: July 23, 2022
+        stars: 3
+        quick_take: "Super tactical; a pretty good primer on a very specific topic, but I still had questions walking away from it."
+      
+      - title: "The Gene: An Intimate History"
+        author: Siddhartha Mukherjee
+        link: https://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/147673352X
+        finished: July 11, 2022
+        stars: 3
+        quick_take: "A super informative and well-written book, but the topic is quite narrow. I'd recommend starting with The Emperor of All Maladies"
+      
       - title: "Masters of Command: Alexander, Hannibal, Caesar, and the Genius of Leadership"
         author: Barry Strauss
         link: https://www.amazon.com/Masters-Command-Alexander-Hannibal-Leadership/dp/1439164495
