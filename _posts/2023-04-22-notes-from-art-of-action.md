@@ -44,8 +44,11 @@ The insight is that the alignment needs to be achieved around intent, and autono
 
 #### Page 74: ###
 The basis of leadership are the mission (Auftrag) and the situation.
+
 The mission identifies the goal to be achieved and must always be the point of focus. A mission which tries to encompass multiple tasks can all too easily obscure what really matters. 
+
 An uncertain situation is normal. It will rarely be possible to gain more acccurate information about the state of the enemy. While you should obviously try to find out as much as possible, waiting for more information in a critical situation is seldom a sign of incisive leadership, and often a serious mistake. ...
+
 A leader must grant his subordinates freedom of action as long as doing so does not compromise his intention. He must not, however, allow them to make a decision for which he is responsible. 
 
 <br> 
@@ -53,7 +56,9 @@ A leader must grant his subordinates freedom of action as long as doing so does 
 #### Page 86: ###
 So the "plan-and-implement model" of strategy becomes a "do-and-adapt" model. Strategy development and execution merge into one circular process. 
 The thinking-doing loop is kept as short as possible so as to reduce uncertainty and increase tempo. ...
+
 With great consistency, mission command allows armies to make rapid decisions in an uncertain, fast-changing environment and to translate them, without delay, into decisive action. They can act faster than their opponents and _keep on doing so_, because speed is built into them structurally. ...
+
 _A German officer, confronted by some task, would ask: what is the core of the problem? An American one, trained in the "engineering approach" to war, would inquire: what are the problem's component parts?_
 
 <br>
@@ -76,6 +81,7 @@ In the backbrief three things happen. The first obvious thing is that the unit b
 
 #### Page 170: ###
 Although closing the alignment gap involves a process, the process is merely a way of linking together briefing and backbriefing between levels. The essence of briefing is not a process, but a skill. Although the strategy briefing template looks like a form, it is really a set of concepts to help structure thinking. ...
+
 The steps required to achieve alignment in the context of friction have been famously and memorably enumerated by the Austrian psychologist Konrad Lorenz. Drawing on his observations about what is needed to make people change, we might modify them for an organization as the following:
 1. What is said is not yet heard. 
 1. What is heard is not yet understood. 
