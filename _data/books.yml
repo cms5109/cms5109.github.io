@@ -1,5 +1,21 @@
 lastupdate: November 12, 2022
 list:
+   - year: "2023"
+    books: 
+      - title: "Bullshit Jobs: A Theory"
+        author: David Graeber
+        link: https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber/dp/1501143336/
+        finished: April 27, 2023
+        stars: 4
+        quick_take: "Ended up being a little repetitive, but also clearly articulates why I've hated some jobs, and what I value in work. Product Manager can very easily be a bullshit job."
+
+      - title: "Mountains Beyond Mountains"
+        author: Tracy Kidder
+        link: https://www.amazon.com/Mountains-Beyond-Tracy-Kidder/dp/0812973011
+        finished: April 15, 2023
+        stars: 5
+        quick_take: "Just an amazing, inspiring story."
+     
   - year: "2022"
     books: 
       - title: "The Power Broker: Robert Moses and the Fall of New York"
@@ -286,3 +302,13 @@ list:
         link: https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/
         finished: January 11th, 2020
         stars: 2
+
+ - year: "2019"
+    books:
+      - title: "The Art of Action"
+        author: Stephen Bungay
+        link: https://www.amazon.com/Art-Action-10th-Anniversary/dp/1529376963/
+        finished: Sep 9th, 2019
+        stars: 5
+        quick_take: "Amazing book for understanding mission-type tactics, and how to be a better executive."
+    
