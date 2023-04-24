@@ -39,6 +39,13 @@ list:
         stars: 3
         quick_take: "A super informative and well-written book, but the topic is quite narrow. I'd recommend starting with The Emperor of All Maladies"
       
+      - title: "Simply Said: Communicating Better at Work and Beyond"
+        author: Jay Sullivan
+        link: https://www.amazon.com/Simply-Said-Communicating-Better-Beyond/dp/1119285283
+        finished: July 12, 2022
+        stars: 5
+        quick_take: "An easy read, full of pratical advice for telling better stories, writing effectively, and presenting so you can captivate your audience."
+      
       - title: "Masters of Command: Alexander, Hannibal, Caesar, and the Genius of Leadership"
         author: Barry Strauss
         link: https://www.amazon.com/Masters-Command-Alexander-Hannibal-Leadership/dp/1439164495
