@@ -1,6 +1,6 @@
-lastupdate: November 12, 2022
+lastupdate: April 23, 2023
 list:
-   - year: "2023"
+  - year: "2023"
     books: 
       - title: "Bullshit Jobs: A Theory"
         author: David Graeber
@@ -303,7 +303,7 @@ list:
         finished: January 11th, 2020
         stars: 2
 
- - year: "2019"
+  - year: "2019"
     books:
       - title: "The Art of Action"
         author: Stephen Bungay
