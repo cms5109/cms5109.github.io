@@ -2,6 +2,13 @@ lastupdate: April 23, 2023
 list:
   - year: "2023"
     books: 
+      - title: "Smart Brevity"
+        author: Jim VandeHei, Mike Allen, Roy Schwartz
+        link: https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976
+        finished: May 3, 2023
+        stars: 3
+        quick_take: "Quick enough read. I really like the writing suggestions, but it steers you towards writing like Axios newsletters."
+
       - title: "Bullshit Jobs: A Theory"
         author: David Graeber
         link: https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber/dp/1501143336/
