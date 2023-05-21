@@ -2,6 +2,13 @@ lastupdate: April 23, 2023
 list:
   - year: "2023"
     books: 
+      - title: "Rebel Cell: Cancer, Evolution, and the New Science of Life's Oldest Betrayal"
+        author: Kat Arney
+        link: https://www.amazon.com/Rebel-Cell-Evolution-Science-Betrayal/dp/1950665305
+        finished: May 20, 2023
+        stars: 4
+        quick_take: "Very interesting and accessible look into the evolving theories of why cancer originates and spreads. Very focused on a specific aspect of cancer, but if you're interested in that, then it's a good read."
+      
       - title: "Smart Brevity"
         author: Jim VandeHei, Mike Allen, Roy Schwartz
         link: https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976
