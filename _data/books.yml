@@ -1,7 +1,100 @@
-lastupdate: April 23, 2023
+lastupdate: March 1, 2024
 list:
+  - year: "2024"
+    books: 
+    - title: "Uncertain: The Wisdom of Being Unsure"
+        author: Maggie Jackson
+        link: https://www.amazon.com/Uncertain-Wisdom-Wonder-Being-Unsure/dp/1633889181
+        finished: Feb 13, 2024
+        stars: 5
+        quick_take: "TBD"
+
+     - title: "Chatter: The Voice in Our Head, Why It Matters, and How to Harness It"
+        author: Steve Brusatte
+        link: https://www.amazon.com/Chatter-Voice-Head-Matters-Harness/dp/0525575243/
+        finished: Feb 13, 2024
+        stars: 4
+        quick_take: "TBD"
+      
+     - title: "Think Faster, Talk Smarter"
+        author: Steve Brusatte
+        link: https://www.amazon.com/Think-Faster-Talk-Smarter-Successfully/dp/1668010305/
+        finished: January 28, 2024
+        stars: 5
+        quick_take: "Qucik, easy read full of useful frameworks and tips for conversing better. I learned a lot from this book." 
+      
+      - title: "The Rise And Fall Of The Dinosaurs"
+        author: Steve Brusatte
+        link: https://www.amazon.com/Rise-Fall-Dinosaurs-History-World/dp/0062490427
+        finished: January 23, 2024
+        stars: 4
+        quick_take: "Really interesting if you're into dinosaurs. Among the things I learned: fossils can tell us what color the dinosaurs were; the asteroid wiped out most dinosaurs within a day; dinosaurs evolved wings before they knew how to fly; birds are definitely dinosaur descendents." 
+      
+      - title: "Blind Man's Bluff"
+        author: Sherry Sontag
+        link: https://www.amazon.com/Blind-Mans-Bluff-Submarine-Espionage/dp/1610393589
+        finished: January 19, 2024
+        stars: 4
+        quick_take: "Submarine espionage - sort of cool. Also, a lot of 'close calls' coupled with 'not much happened.' Sort of amazing to know what was technically feasible, even back in the 60s (like landing a submarine on the ocean floor and having divers tap a phone cable), and the lengths the US went to spy on the USSR."
+      
+      - title: "Immunity To Change: How To Overcome It And Unlock the Potential in Yourself and Your Organization "
+        author: Steve Brusatte
+        link: https://www.amazon.com/Immunity-Change-Potential-Organization-Leadership/dp/1422117367/
+        finished: January 10, 2024
+        stars: 4
+        quick_take: "I really appreciated the science that went into the beginning, as well as the 4 column framework. Lots of examples in the middle chapters make this a bit tedious."
+
   - year: "2023"
     books: 
+      - title: "Anna Karennina"
+        author: 
+        link: 
+        finished: 
+        stars: 5
+        quick_take: 
+
+      - title: "When Breath Becomes Air"
+        author: 
+        link: 
+        finished: 
+        stars: 5
+        quick_take: 
+      
+      - title: "Thinking in Systems: A Primer"
+        author: 
+        link: 
+        finished: 
+        stars: 4
+        quick_take:
+
+      - title: "An Elegant Puzzle: Systems of Engineering Management"
+        author: Will Larson
+        link: https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186
+        finished: 
+        stars: 4
+        quick_take:
+      
+      - title: "The Wager: A Tale of Shipwreck, Mutiny, and Murder"
+        author: David Grann
+        link: https://www.amazon.com/Wager-Tale-Shipwreck-Mutiny-Murder-ebook/dp/B0B6Z4SVTH
+        finished: June 30, 2023
+        stars: 4
+        quick_take: "Great beach read! A historical non-fiction that reads like a narrative."
+
+      - title: "The Last Stand: Custer, Sitting Bull, and the Battle of the Little Bighorn"
+        author: Nathaniel Philbrick
+        link: https://www.amazon.com/Last-Stand-Custer-Sitting-Bighorn-ebook/dp/B003NX760I/
+        finished: June 25, 2023
+        stars: 4
+        quick_take: "Really interesting read, but I liked how it dives equally deep into the strategy and tactics of the battle, as well as the context and political/cultural aftermath."
+
+      - title: "The Science of Storytelling: Why Stories Make Us Human and How to Tell Them Better"
+        author: Will Storr
+        link: https://www.amazon.com/Science-Storytelling-Stories-Human-Better/dp/1419743031
+        finished: May 30, 2023
+        stars: 5
+        quick_take: "I learned as much how our brains operate as I did about telling stories. I came away with a better understanding of how I think, why I think the way I do, better equipped to tell stories, and with loads of fun facts. What more could you want?"
+      
       - title: "Rebel Cell: Cancer, Evolution, and the New Science of Life's Oldest Betrayal"
         author: Kat Arney
         link: https://www.amazon.com/Rebel-Cell-Evolution-Science-Betrayal/dp/1950665305
