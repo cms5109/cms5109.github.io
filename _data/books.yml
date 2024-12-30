@@ -2,6 +2,76 @@ lastupdate: June 15, 2024
 list:
   - year: "2024"
     books: 
+      - title: "Strong Product People"
+        author: Petra Wille
+        link: https://www.amazon.com/Strong-Product-People-Complete-Developing/dp/3982235103/
+        finished: December 29, 2024
+        stars: 5
+        quick_take: "Really in depth guide to being a Head of Product. Lots of good tools to add to your PM Toolkit, like the PM Wheel assessment."
+
+      - title: "Building Material: The Memoir of a Park Avenue Doorman"
+        author: Stephen Bruno
+        link: https://www.amazon.com/Building-Material-Memoir-Avenue-Doorman/dp/0063347555/
+        finished: December 15, 2024
+        stars: 4
+        quick_take: "A quick, enjoyable read about a lifelong New Yorker and his career as a doorman."
+
+      - title: "Wind, Sand, and Stars"
+        author: Antoine de Saint-Exupery
+        link: https://www.amazon.com/dp/0812984250
+        finished: November 13, 2024
+        stars: 5
+        quick_take: "I've seen a lot of quotes from this author, but haven't read anything from him. This book - about the adventure of being one of the first pilots - has no business being this well written."
+
+      - title: "Tenth of December: Stories"
+        author: George Saunders
+        link: https://www.amazon.com/dp/0812984250
+        finished: November 5, 2024
+        stars: 4
+        quick_take: "Interesting short stories. Thanks for the recommendation, Patrick!"
+
+      - title: "The Creative Act: A Way of Being"
+        author: Rick Rubin
+        link: https://www.amazon.com/Creative-Act-Way-Being/dp/0593652886/
+        finished: September 30, 2024
+        stars: 5
+        quick_take: "Really amazing connections between Buddhist philosophies/Zen and how to create."
+      
+      - title: "Leonardo da Vinci"
+        author: Walter Isaacson
+        link: https://www.amazon.com/dp/1501139169
+        finished: September 15, 2024
+        stars: 5
+        quick_take: "Over 500 pages, but it keeps you engaged the entire time. Leonardo was a fascinating person, and I learned how important it is to sit, observe, and be curious."
+
+      - title: "Genghis Khan and the Making of the Modern World"
+        author: Jack Weatherford
+        link: https://www.amazon.com/dp/0609809644
+        finished: August 21, 2024
+        stars: 5
+        quick_take: "It's amazing to think about the nomadic world Genghis Khan was born into, and the empire he left. Who knew Mongols were proponents of free speech, free trade, and religious freedom."
+
+      - title: "Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling"
+        author: Matthew Dicks
+        link: https://www.amazon.com/dp/1608685489
+        finished: August 16, 2024
+        stars: 4
+        quick_take: "Stories are about a 5 second moment that changes you. I generally think this was helpful for a specific type of story, but it was helpful nonetheless"
+
+      - title: "The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War"
+        author: Malcolm Gladwell
+        link: https://www.amazon.com/dp/0316296619
+        finished: July 6, 2024
+        stars: 4
+        quick_take: "I love old WWII bombers, and this was a fascinating look at how they were developed under the premise that you could win a war through the air alone."
+      
+      - title: "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest"
+        author: Stephen Ambrose
+        link: https://www.amazon.com/Band-Brothers-Regiment-Airborne-Normandy/dp/1501179403/
+        finished: June 15, 2024
+        stars: 3
+        quick_take: "Not bad, but the miniseries was better. The story is interesting, but I didn't take a lot away from the book."
+
       - title: "Continuous Discovery Habits"
         author: Teresa Torres
         link: https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/B09XYX49KX/r
@@ -29,6 +99,20 @@ list:
         finished: April 28, 2024
         stars: 4
         quick_take: ""
+
+      - title: "Ratio: The Simple Codes Behind the Craft of Everyday Cooking"
+        author: Michael Ruhlman
+        link: https://www.amazon.com/dp/1416571728
+        finished: April 20, 2024
+        stars: 4
+        quick_take: "It's pretty baking heavy, but these are basic things that people should know as they become better home cooks."
+
+      - title: "We Don't Know Ourselves: A Personal History of Modern Ireland"
+        author: Fintan O'Toole
+        link: https://www.amazon.com/We-Dont-Know-Ourselves-Personal/dp/1324092874/
+        finished: April 10, 2024
+        stars: 3
+        quick_take: "Fairly long, but it was an interesting look into the collapse of two big pillars of Irish culture - Catholicism and the conservative politics of Fianna Fail."
 
       - title: "Bad Therapy: Why the Kids Aren't Growing Up"
         author: Abigail Shrier
