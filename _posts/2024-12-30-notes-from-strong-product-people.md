@@ -135,13 +135,13 @@ If the answers to all those questions are promising, I call it an opportunity an
 When your PMs create the compelling stories they will use to inspire their teams, stakeholders, and others, they should be sure to hit the following points: 
 * Paint a desirable future/big dream.
 * Explain why someone should be a part of the story.
-** It's good for you
-** It's good for us
-** It's good for all
+  * It's good for you
+  * It's good for us
+  * It's good for all
 * Assess the anticipated difficulties and why it's worth the effort.
-** See their world
-** Appreciate them as human beings
-** Communicate understanding
+  * See their world
+  * Appreciate them as human beings
+  * Communicate understanding
 * Present the shared goal.
 Create a sense of urgency and present information that enables action. 
 
